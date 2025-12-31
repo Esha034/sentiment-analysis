@@ -92,16 +92,27 @@ Achieved ~89% accuracy on test data
 
 ## 📁 Project Structure
 sentiment-analysis/
+
 │
+
 ├── data/
+
 │   └── IMDB Dataset.csv
+
 │
+
 ├── saved_model/
+
 │   └── sentiment_model.pkl
+
 │
+
 ├── app.py
+
 ├── model_training.py
+
 ├── requirements.txt
+
 └── README.md
 
 ## 💻 Installation & Execution (Run Locally)
