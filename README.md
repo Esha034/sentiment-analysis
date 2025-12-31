@@ -6,7 +6,7 @@ The model is trained on the IMDb 50K Movie Reviews dataset and deployed as an in
 ## Live Demo (Run Globally)
 
 👉 Streamlit App Link:
-🔗 https://<your-streamlit-app-name>.streamlit.app
+🔗 https://sentiment-analysis-webapp03.streamlit.app/
 
 (Recruiters can directly open this link and test the model without any setup.)
 
