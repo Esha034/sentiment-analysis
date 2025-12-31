@@ -3,9 +3,9 @@
 This project is an end-to-end Machine Learning application that predicts the sentiment (Positive / Negative) of movie reviews using Natural Language Processing (NLP) techniques.
 The model is trained on the IMDb 50K Movie Reviews dataset and deployed as an interactive Streamlit web application.
 
-## Live Demo (Run Globally)
+## Live Demo 
 
-👉 Streamlit App Link:
+Streamlit App Link:
 🔗 https://sentiment-analysis-webapp03.streamlit.app/
 
 (Recruiters can directly open this link and test the model without any setup.)
@@ -115,7 +115,7 @@ sentiment-analysis/
 
 └── README.md
 
-## 💻 Installation & Execution (Run Locally)
+## Installation & Execution (Run Locally)
 
 Follow these steps to run the project on your local machine:
 
